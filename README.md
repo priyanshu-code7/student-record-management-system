@@ -146,5 +146,10 @@ RUN_DB_TESTS=1 python -m unittest discover -s tests -t . -v
 
 ## Author
 
-Your Name - Your UID - Your Course
+## Author
+
+**Name:** Priyanshu 
+**UID:** 26MCI10039 
+**Course:** MCA (AI & ML)  
+**University:** Chandigarh University, Punjab
 # student-record-management-system
