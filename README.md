@@ -147,3 +147,4 @@ RUN_DB_TESTS=1 python -m unittest discover -s tests -t . -v
 ## Author
 
 Your Name - Your UID - Your Course
+# student-record-management-system
